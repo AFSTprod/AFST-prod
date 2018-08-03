@@ -6,11 +6,11 @@ The application collects certain information about the device, including the fol
 
 - Device, model;
 - Device properties related to the size and orientation of the screen, volume and battery;
-- Operating system;
-- Graphical API.
 - The number of system and video memory.
-- Country, time zone settings (country and preferred language);
 - Network connection type and speed;
+- Country, time zone settings (country and preferred language);
+- Graphical API.
+- Operating system;
 - IP address;
 - Device ID for advertisers.
 
@@ -22,15 +22,15 @@ You can at any time withdraw your consent to the collection and processing of da
 
 Third-party advertisers (and the advertising networks they use) that host advertising in the Services can use cookies and related technologies to store information or read information from your browser or device. Technologies used for this purpose may include: cookies; web beacons; pixel tracking; and / or local shared objects (also known as Flash cookies). To learn more, check out the privacy policies of the services that are used to display ads in our applications:
 
-Admob - [https://policies.google.com/privacy]( https://policies.google.com/privacy)
-
 Unity - [https://unity3d.com/legal/privacy-policy](https://unity3d.com/legal/privacy-policy)
+
+Admob - [https://policies.google.com/privacy]( https://policies.google.com/privacy)
 
 Applovin - [https://www.applovin.com/privacy/](https://www.applovin.com/privacy/)
 
 ### Changes
 
-This privacy policy may be updated from time to time for any reason. We will notify you of any changes to our Privacy Policy by posting a new Privacy Policy here and informing you of the text message in the application. It is recommended that you regularly consult this Privacy Policy for any changes, as continued use is considered approval of all changes.
+This privacy policy may be updated from time to time for any reason. We will notify you of any changes to our Privacy Policy in the text message in the application. It is recommended that you regularly consult this Privacy Policy for any changes, as continued use is considered approval of all changes.
 
 ### Refusal to collect data
 
